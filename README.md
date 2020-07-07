@@ -1,2 +1,2 @@
 # R-basis-01
-For R studio beginners
+To download data from internet and perform some basic stats and plots
